@@ -11,4 +11,6 @@
 
 <p>Our vision is to make user-generated, malleable software a ubiquitous part of the future. 
 
-To that end, we are working on <a href="https://tiles.run">Tiles Notebook</a>, a new interface for making personal software. Technically it's local-first, multiplayer enabled MCP client with notebook interface.</p> For inquiries on influencing the future of Tiles, reach out to <a href="mailto:hello@tiles.run">hello@tiles.run.</a></p>
+To that end, we are working on <a href="https://tiles.run">Tiles Notebook</a>, a notebook interface that makes working with AI agents easier. It's a multiplayer, offline-first expereince based on MCP with support for generating widgets/artifacts. Our vision is to make personal software ubiquitous in the future.</p> 
+
+For inquiries on influencing the future of Tiles, reach out to <a href="mailto:hello@tiles.run">hello@tiles.run.</a></p>
