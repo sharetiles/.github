@@ -10,11 +10,11 @@
 </p>
 
 <p>
-  Machines that learn from experience unlock truly useful Al. Most can't, because training stops at deployment. Tiles enables the on-device AI infrastructure for continual learning using small language models and parameter-efficient fine-tuning.
+  Machines that learn from experience unlock truly useful Al. Most can't, because training stops at deployment. At Tiles, we're building the on-device AI infrastructure for continual learning using small language models and parameter-efficient fine-tuning methods.
 </p>
 
 <p>
-  Tiles was founded in 2025 by <a href="https://ankeshbharti.com/">Ankesh</a> in Bengaluru, India. Ankesh is an applied researcher and technologist with a background in local-first technologies.
+  Tiles was founded in 2025 by <a href="https://ankeshbharti.com/">Ankesh</a> in Bengaluru, India. Ankesh is an applied researcher and technologist with a background in browser and local-first technologies.
 
 </p>
 
