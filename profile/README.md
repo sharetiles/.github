@@ -18,5 +18,8 @@
 </p>
 
 <p>
-  We’re currently in the research phase and are open to early conversations around a pre-seed or angel round. If you're interested in helping shape the future of Tiles, reach out at <a href="mailto:hello@tiles.run">hello@tiles.run</a>, or drop by the #tiles channel in the <a href="https://userandagents.com/">User & Agents</a> community.
+  We’re currently in the research phase and are open to early conversations around a pre-seed or angel round. 
+  If you'd like to connect, drop by the #tiles channel in the 
+  <a href="https://userandagents.com/" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> 
+  community or <a href="mailto:hello@tiles.run">email us at hello@tiles.run</a>.
 </p>
