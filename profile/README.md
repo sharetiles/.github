@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  Machines that learn from experience unlock truly useful Al. Most can't, because training stops at deployment. Tiles enables the on-device AI infrastructure for continual learning.
+  Machines that learn from experience unlock truly useful Al. Most can't, because training stops at deployment. Tiles enables the on-device AI infrastructure for continual learning using small language models and parameter-efficient fine-tuning.
 </p>
 
 <p>
