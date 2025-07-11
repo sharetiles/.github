@@ -14,7 +14,8 @@
 </p>
 
 <p>
-  Tiles was founded in 2025 by <a href="https://ankeshbharti.com/">Ankesh</a> and <a href="https://aswinc.blog/">Aswin</a> in Bengaluru, India. Ankesh is an applied researcher focused on local-first technologies. Aswin is a generalist engineer with wide-ranging creative interests — including music and photography.
+  Tiles was founded in 2025 by <a href="https://ankeshbharti.com/">Ankesh</a> in Bengaluru, India. Ankesh is an applied researcher and technologist with a background in local-first technologies.
+
 </p>
 
 <p>
