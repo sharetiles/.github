@@ -1,16 +1,22 @@
 <p align="center">
   <a href="https://github.com/tileshq/">
-    <img src="https://avatars.githubusercontent.com/u/210493283?s=200&v=4" alt="Logo" width="128">
+    <img src="https://avatars.githubusercontent.com/u/210493283?s=400&u=7dcb8aa07dd8e4dab8ed80d2b3920207cf96e880&v=4" alt="Tiles Logo" width="128" />
   </a>
-</h1>
-  <p align="center">
-    We are Tiles HQ.
-    <br />
-  </p>
 </p>
 
-<p>Our vision is to make user-generated, malleable software a ubiquitous part of the future. 
+<p align="center">
+  <strong>We are Tiles HQ.</strong><br />
+  Advancing on-device AI infrastructure for continual learning.
+</p>
 
-To that end, we are working on <a href="https://tiles.run">Tiles Notebook</a>, a notebook interface that makes working with AI agents easier. It's a multiplayer, offline-first expereince based on MCP with support for generating widgets/artifacts. Our vision is to make personal software ubiquitous in the future.</p> 
+<p>
+  Machines that learn from experience unlock truly useful Al. Most can't, because training stops at deployment. Tiles enables the on-device AI infrastructure for continual learning.
+</p>
 
-For inquiries on influencing the future of Tiles, reach out to <a href="mailto:hello@tiles.run">hello@tiles.run.</a></p>
+<p>
+  Tiles was founded in 2025 by <a href="https://ankeshbharti.com/">Ankesh</a> and <a href="https://aswinc.blog/">Aswin</a> in Bengaluru, India. Ankesh is an applied researcher focused on local-first technologies. Aswin is a generalist engineer with wide-ranging creative interests — including music and photography.
+</p>
+
+<p>
+  We’re currently in the research phase and are open to early conversations around a pre-seed or angel round. If you're interested in helping shape the future of Tiles, reach out at <a href="mailto:hello@tiles.run">hello@tiles.run</a>, or drop by the #tiles channel in the <a href="https://userandagents.com/">User & Agents</a> community.
+</p>
