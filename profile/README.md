@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>We are Tiles HQ.</strong><br />
   Advancing on-device AI infrastructure for continual learning.
 </p>
 
