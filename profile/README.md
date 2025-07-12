@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  Machines that learn from experience unlock truly useful Al. Most can't, because training stops at deployment. At Tiles, we're building the on-device AI infrastructure for continual learning using small language models and parameter-efficient fine-tuning methods.
+  Machines that learn from experience unlock truly personal Al. Most can't, because training stops at deployment. At Tiles, we're building the on-device AI infrastructure for continual learning using small language models and parameter-efficient fine-tuning methods.
 </p>
 
 <p>
