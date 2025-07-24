@@ -24,3 +24,9 @@ With Tiles SDK, we’re building the on-device AI infrastructure to enable this:
   <a href="https://userandagents.com/" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> 
   community or <a href="mailto:hello@tiles.run">email us at hello@tiles.run</a>.
 </p>
+
+---
+
+Tiles is inspired by platforms such as [Are.na](https://are.na/), [Reddit](https://www.reddit.com/), [Substack](https://substack.com/), [Stripe](https://stripe.com/), [Twitch](https://www.twitch.tv/), [Eleven Labs](https://elevenlabs.io/), [Unternet](https://unternet.co), and [Workshop Labs](https://workshoplabs.ai/).
+
+We maintain is a living index of resources that inform and inspire our work on our [Resources](https://www.tiles.run/resources) page.
