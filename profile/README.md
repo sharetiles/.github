@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  Advancing on-device AI infrastructure for continual learning.
+  Tiles is the the best place to save and consume content. Private and collaborative. This is the SDK that powers it.
 </p>
 
 <p>
-  Machines that learn from experience unlock truly personal Al. Most can't, because training stops at deployment. At Tiles, we're building the on-device AI infrastructure for continual learning using small language models and parameter-efficient fine-tuning methods.
+  Truly personal AI that respects privacy requires on-device learning from individual experience. Most existing systems either lack personalization or perform it only at build time. For real-time, adaptive systems, the primary bottleneck shifts from training to deployment.
+
+With Tiles SDK, we’re building the on-device AI infrastructure to enable this: a system designed for continual learning using model chaining and parameter-efficient fine-tuning methods.
 </p>
 
 <p>
