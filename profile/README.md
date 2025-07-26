@@ -8,7 +8,7 @@
   Advancing on-device AI infrastructure for continual learning.
 </p>
 
-Tiles draws inspiration from the work of companies like [Are.na](https://are.na/), [BCNY](https://www.thebrowser.company/), [Vercel](https://vercel.com/tiles-hq), [Substack](https://substack.com/), [Stripe](https://stripe.com/), [Cloudflare](https://www.cloudflare.com/), and [Tailscale](https://tailscale.com/).
+Tiles draws inspiration from the work of companies like [Are.na](https://are.na/), [BCNY](https://www.thebrowser.company/), [Vercel](https://vercel.com/tiles-hq), [Substack](https://substack.com/), [Stripe](https://stripe.com/), [Cloudflare](https://www.cloudflare.com/), and [Tailscale](https://tailscale.com/), among others.
 
 Below is a living index of resources that inform and inspire our work.
 
