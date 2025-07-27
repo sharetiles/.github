@@ -13,6 +13,7 @@ Tiles draws inspiration from the work of companies like [Are.na](https://are.na/
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
+- [Supermemory MCP](https://mcp.supermemory.ai/)
 - ✨ [Introducing the v0 composite model family, Vercel](https://vercel.com/blog/v0-composite-model-family#why-does-v0-need-a-composite-model-architecture?)
 - ✨ [Unternet Kernel](https://github.com/unternet-co/client/tree/main/kernel?utm_source=tiles.run)
 - [Ollama JavaScript library](https://github.com/ollama/ollama-js?utm_source=tiles.run)
