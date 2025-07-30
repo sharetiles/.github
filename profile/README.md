@@ -44,6 +44,7 @@ Below is a living index of resources that inform and inspire our work.
 - [AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air](https://arxiv.org/abs/2507.11515?utm_source=tiles.run)
 - [Comparative Analysis of Retrieval Systems in the Real World](https://arxiv.org/pdf/2405.02048?utm_source=tiles.run)
 - [FedVLM: Scalable Personalized Vision-Language Models through Federated Learning](https://arxiv.org/abs/2507.17088?utm_source=tiles.run)
+- [On the Way to LLM Personalization: Learning to Remember User Conversations](https://arxiv.org/abs/2411.13405?utm_source=tiles.run)
 
 ## Product
 
