@@ -65,9 +65,11 @@ Below is a living index of resources that inform and inspire our work.
 ## Companies
 
 - [Apple](https://www.apple.com/)
+- [Workshop Labs](https://workshoplabs.ai/)
 - [Ollama](https://ollama.com)
 - [Hugging Face](https://huggingface.co/)
 - [Unsloth](https://unsloth.ai)
+- [Osmosis AI](https://osmosis.ai/)
 - [Exo](https://exolabs.net/)
 - [Arcee](https://www.arcee.ai/)
 - [ArgMax](https://www.argmaxinc.com/)
