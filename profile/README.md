@@ -53,7 +53,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Everything is ugly, so go build something that isn't — Raiza Martin, Huxe (ex NotebookLM)](https://www.youtube.com/watch?v=yG5d5UaGz1M?utm_source=tiles.run)
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software?utm_source=tiles.run)
 - [Our designer built an operating system with Cursor
-](
+](https://www.youtube.com/watch?v=TQhv6Wol6Ns)
 - [Why Tool Als Want to Be Agent Als, Gwern](https://gwern.net/tool-ai?utm_source=tiles.run)
 - ✨ [Machines of Buying and Selling Grace - Adam Behrens, New Generation](https://www.youtube.com/watch?v=zlZz0mDF2eg?utm_source=tiles.run)
 - ✨ [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=2211s?utm_source=tiles.run)
