@@ -8,13 +8,9 @@
   Advancing on-device AI infrastructure for continual learning.
 </p>
 
-Tiles draws inspiration from the work of companies like [Are.na](https://are.na/), [BCNY](https://www.thebrowser.company/), [Vercel](https://vercel.com/tiles-hq), [Substack](https://substack.com/), [Stripe](https://stripe.com/), [Cloudflare](https://www.cloudflare.com/), and [Tailscale](https://tailscale.com/), among others.
-
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
-- [Supermemory MCP](https://mcp.supermemory.ai/)
-- ✨ [Introducing the v0 composite model family, Vercel](https://vercel.com/blog/v0-composite-model-family#why-does-v0-need-a-composite-model-architecture?)
 - ✨ [Unternet Kernel](https://github.com/unternet-co/client/tree/main/kernel?utm_source=tiles.run)
 - [Ollama JavaScript library](https://github.com/ollama/ollama-js?utm_source=tiles.run)
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/?utm_source=tiles.run)
@@ -23,6 +19,8 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Unsloth AI - Open Source Fine-tuning & RL for LLMs](https://unsloth.ai/?utm_source=tiles.run)
 - ✨ [Mistral.rs, a cross-platform, highly-multimodal inference engine](https://github.com/EricLBuehler/mistral.rs?utm_source=tiles.run)
 - [Osmosis, Unlocking AI self-improvement at production scale](https://osmosis.ai/?utm_source=tiles.run)
+- [Supermemory MCP](https://mcp.supermemory.ai/)
+- ✨ [Introducing the v0 composite model family, Vercel](https://vercel.com/blog/v0-composite-model-family#why-does-v0-need-a-composite-model-architecture?)
 - [TypeGPU: Enhancing WebGPU with TypeScript for Simplified GPU Programming](https://github.com/software-mansion/TypeGPU?utm_source=tiles.run)
 - [GGUF Tool Suite](https://github.com/Thireus/GGUF-Tool-Suite/?utm_source=tiles.run)
 - [Minions, Big & Small LLMs working together](https://github.com/HazyResearch/minions?utm_source=tiles.run)
