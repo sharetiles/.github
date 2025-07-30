@@ -52,6 +52,8 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Workshop Labs Mission, Workshop Labs](https://workshoplabs.ai/?utm_source=tiles.run)
 - ✨ [Everything is ugly, so go build something that isn't — Raiza Martin, Huxe (ex NotebookLM)](https://www.youtube.com/watch?v=yG5d5UaGz1M?utm_source=tiles.run)
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software?utm_source=tiles.run)
+- [Our designer built an operating system with Cursor
+](
 - [Why Tool Als Want to Be Agent Als, Gwern](https://gwern.net/tool-ai?utm_source=tiles.run)
 - ✨ [Machines of Buying and Selling Grace - Adam Behrens, New Generation](https://www.youtube.com/watch?v=zlZz0mDF2eg?utm_source=tiles.run)
 - ✨ [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=2211s?utm_source=tiles.run)
@@ -60,5 +62,14 @@ Below is a living index of resources that inform and inspire our work.
 - [Why I hope Apple keeps investing in on-device AI](https://www.computerworld.com/article/4016798/why-i-hope-apple-keeps-investing-in-on-device-ai.html?utm_source=tiles.run)
 - [Fun stories from building OpenRouter and where all this is going - Alex Atallah, OpenRouter](https://www.youtube.com/watch?v=84Vtz2IL1Ug?utm_source=tiles.run)
 
+## Companies
+
+- [Apple](https://www.apple.com/)
+- [Ollama](https://ollama.com)
+- [Hugging Face](https://huggingface.co/)
+- [Unsloth](https://unsloth.ai)
+- [Exo](https://exolabs.net/)
+- [Arcee](https://www.arcee.ai/)
+- [ArgMax](https://www.argmaxinc.com/)
 
 
