@@ -43,7 +43,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Comparative Analysis of Retrieval Systems in the Real World](https://arxiv.org/pdf/2405.02048?utm_source=tiles.run)
 - [FedVLM: Scalable Personalized Vision-Language Models through Federated Learning](https://arxiv.org/abs/2507.17088?utm_source=tiles.run)
 - [On the Way to LLM Personalization: Learning to Remember User Conversations](https://arxiv.org/abs/2411.13405?utm_source=tiles.run)
-- [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML?utm_source=tiles.run)
+- [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf?utm_source=tiles.run)
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666?utm_source=tiles.run)
 
 ## Product
