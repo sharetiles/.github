@@ -80,5 +80,7 @@ Below is a living index of resources that inform and inspire our work.
 - [ArgMax](https://www.argmaxinc.com/)
 - [Patina Systems](https://patinasystems.com/)
 - [Teenage Engineering](https://teenage.engineering/)
+- [Ink & Switch](https://www.inkandswitch.com/)
+- [Unternet](https://unternet.co/)
 
 
