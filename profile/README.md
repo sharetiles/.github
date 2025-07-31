@@ -64,6 +64,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Why I hope Apple keeps investing in on-device AI](https://www.computerworld.com/article/4016798/why-i-hope-apple-keeps-investing-in-on-device-ai.html?utm_source=tiles.run)
 - [Fun stories from building OpenRouter and where all this is going - Alex Atallah, OpenRouter](https://www.youtube.com/watch?v=84Vtz2IL1Ug?utm_source=tiles.run)
 - [Arcee AI Conductor](https://models.arcee.ai/?utm_source=tiles.run)
+- ✨ [Announcing the Arcee Model Engine Public Beta](https://www.arcee.ai/blog/announcing-the-arcee-model-engine-public-beta?utm_source=tiles.run)
 
 ## Companies
 
