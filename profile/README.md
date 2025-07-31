@@ -28,7 +28,7 @@ Below is a living index of resources that inform and inspire our work.
 - [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs?utm_source=tiles.run)
 - [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers?utm_source=tiles.run)
-- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](
+- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single?utm_source=tiles.run)
 
 ## Research
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
@@ -68,6 +68,7 @@ Below is a living index of resources that inform and inspire our work.
 
 - [Apple](https://www.apple.com/)
 - [Workshop Labs](https://workshoplabs.ai/)
+- [Imbue](https://imbue.com/)
 - [Ollama](https://ollama.com)
 - [Hugging Face](https://huggingface.co/)
 - [Unsloth](https://unsloth.ai)
