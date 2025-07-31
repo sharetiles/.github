@@ -78,5 +78,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Exo](https://exolabs.net/)
 - [Arcee](https://www.arcee.ai/)
 - [ArgMax](https://www.argmaxinc.com/)
+- [Patina Systems](https://patinasystems.com/)
+- [Teenage Engineering](https://teenage.engineering/)
 
 
