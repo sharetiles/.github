@@ -46,6 +46,7 @@ Below is a living index of resources that inform and inspire our work.
 - [On the Way to LLM Personalization: Learning to Remember User Conversations](https://arxiv.org/abs/2411.13405?utm_source=tiles.run)
 - [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf?utm_source=tiles.run)
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666?utm_source=tiles.run)
+- [Serving Voice AI at $1/hr: Open-source, LoRAs, Latency, Load Balancing - Neil Dwyer, Gabber](https://www.youtube.com/watch?v=rD23-VZZHOo)
 
 ## Product
 
