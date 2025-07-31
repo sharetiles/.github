@@ -28,6 +28,7 @@ Below is a living index of resources that inform and inspire our work.
 - [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs?utm_source=tiles.run)
 - [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers?utm_source=tiles.run)
+- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](
 
 ## Research
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
@@ -50,6 +51,7 @@ Below is a living index of resources that inform and inspire our work.
 
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645?utm_source=tiles.run)
 - ✨ [Workshop Labs Mission, Workshop Labs](https://workshoplabs.ai/?utm_source=tiles.run)
+- ✨ [Empowering humans in the age of AI, Imbue](https://imbue.com/company/vision/?utm_source=tiles.run)
 - ✨ [Everything is ugly, so go build something that isn't — Raiza Martin, Huxe (ex NotebookLM)](https://www.youtube.com/watch?v=yG5d5UaGz1M?utm_source=tiles.run)
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software?utm_source=tiles.run)
 - [Our designer built an operating system with Cursor
