@@ -63,6 +63,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [The Rise of Personal LLM "Cognitive Core", Andrej Karpathy](https://x.com/karpathy/status/1938626382248149433?utm_source=tiles.run)
 - [Why I hope Apple keeps investing in on-device AI](https://www.computerworld.com/article/4016798/why-i-hope-apple-keeps-investing-in-on-device-ai.html?utm_source=tiles.run)
 - [Fun stories from building OpenRouter and where all this is going - Alex Atallah, OpenRouter](https://www.youtube.com/watch?v=84Vtz2IL1Ug?utm_source=tiles.run)
+- [Arcee AI Conductor](https://models.arcee.ai/?utm_source=tiles.run)
 
 ## Companies
 
