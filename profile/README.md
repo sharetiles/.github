@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Advancing on-device AI infrastructure for continual learning.
+  On-device, AI memory runtime for continual learning.
 </p>
 
 Below is a living index of resources that inform and inspire our work.
