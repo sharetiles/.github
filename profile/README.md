@@ -33,6 +33,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Serving Voice AI at $1/hr: Open-source, LoRAs, Latency, Load Balancing - Neil Dwyer, Gabber](https://www.youtube.com/watch?v=rD23-VZZHOo)
 - ✨ [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
+- [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
 - ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
 - ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
