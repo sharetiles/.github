@@ -59,6 +59,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software)
 - [Our designer built an operating system with Cursor](https://www.youtube.com/watch?v=TQhv6Wol6Ns)
 - ✨ [Why Tool Als Want to Be Agent Als, Gwern](https://gwern.net/tool-ai)
+- [Agents vs Workflows: Why Not Both? — Sam Bhagwat, Mastra.ai](https://www.latent.space/p/oai-v-langgraph)
 - ✨ [Machines of Buying and Selling Grace - Adam Behrens, New Generation](https://www.youtube.com/watch?v=zlZz0mDF2eg)
 - ✨ [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=2211s)
 - ✨ [I Remastered Facebook's Little Red Book](https://spaccapeli.com/i-remastered-facebooks-little-red-book)
