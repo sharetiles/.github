@@ -32,7 +32,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
-- [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
+- ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
 
 ## Research
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
