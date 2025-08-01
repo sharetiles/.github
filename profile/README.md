@@ -34,6 +34,7 @@ Below is a living index of resources that inform and inspire our work.
 - [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
 
 ## Research
+- ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
 - ✨ [Text-to-LoRA: Instant Transformer Adaption, Sakana AI](https://arxiv.org/abs/2506.06105)
 - ✨ [Small Language Models are the Future of Agentic AI, NVIDIA Research](https://arxiv.org/abs/2506.02153)
