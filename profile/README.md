@@ -34,8 +34,6 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
-- ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
-- ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ## Research
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
@@ -61,7 +59,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Everything is ugly, so go build something that isn't — Raiza Martin, Huxe (ex NotebookLM)](https://www.youtube.com/watch?v=yG5d5UaGz1M)
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software)
 - [Our designer built an operating system with Cursor](https://www.youtube.com/watch?v=TQhv6Wol6Ns)
-- [Why Tool Als Want to Be Agent Als, Gwern](https://gwern.net/tool-ai)
+- ✨ [Why Tool Als Want to Be Agent Als, Gwern](https://gwern.net/tool-ai)
 - ✨ [Machines of Buying and Selling Grace - Adam Behrens, New Generation](https://www.youtube.com/watch?v=zlZz0mDF2eg)
 - ✨ [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=2211s)
 - ✨ [I Remastered Facebook's Little Red Book](https://spaccapeli.com/i-remastered-facebooks-little-red-book)
@@ -70,6 +68,12 @@ Below is a living index of resources that inform and inspire our work.
 - [Fun stories from building OpenRouter and where all this is going - Alex Atallah, OpenRouter](https://www.youtube.com/watch?v=84Vtz2IL1Ug)
 - [Arcee AI Conductor](https://models.arcee.ai/)
 - ✨ [Announcing the Arcee Model Engine Public Beta](https://www.arcee.ai/blog/announcing-the-arcee-model-engine-public-beta)
+
+## Reference 
+
+- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
+- ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
+- ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ## Companies
 - [Apple](https://www.apple.com/)
@@ -82,6 +86,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Exo](https://exolabs.net/)
 - [Arcee](https://www.arcee.ai/)
 - [ArgMax](https://www.argmaxinc.com/)
+- [Allen AI](https://allenai.org/)
 - [Patina Systems](https://patinasystems.com/)
 - [Teenage Engineering](https://teenage.engineering/)
 - [Ink & Switch](https://www.inkandswitch.com/)
