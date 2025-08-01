@@ -33,6 +33,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
 - ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
+- ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
 
 ## Research
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
@@ -51,6 +52,7 @@ Below is a living index of resources that inform and inspire our work.
 - [On the Way to LLM Personalization: Learning to Remember User Conversations](https://arxiv.org/abs/2411.13405)
 - [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf)
 - ✨ [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
+- ✨ [Intent-Based Architecture and Their Risks](https://www.paradigm.xyz/2023/06/intents)
 
 ## Product
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
