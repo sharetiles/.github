@@ -52,6 +52,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
 
 ## Product
+- [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645)
 - ✨ [Workshop Labs Mission, Workshop Labs](https://workshoplabs.ai/)
 - ✨ [Empowering humans in the age of AI, Imbue](https://imbue.com/company/vision/)
