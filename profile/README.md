@@ -86,5 +86,6 @@ Below is a living index of resources that inform and inspire our work.
 - [Teenage Engineering](https://teenage.engineering/)
 - [Ink & Switch](https://www.inkandswitch.com/)
 - [Unternet](https://unternet.co/)
+- [OpenPipe](https://openpipe.ai/)
 
 
