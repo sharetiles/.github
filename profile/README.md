@@ -8,6 +8,8 @@
   On-device, AI memory runtime for continual learning.
 </p>
 
+# Resources 
+
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
