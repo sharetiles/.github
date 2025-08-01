@@ -31,6 +31,7 @@ Below is a living index of resources that inform and inspire our work.
 - [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single?utm_source=tiles.run)
 - [Pipecat Cloud: Enterprise Voice Agents Built On Open Source - Kwindla Hultman Kramer, Daily](https://www.youtube.com/watch?v=IA4lZjh9sTs?utm_source=tiles.run)
 - [Serving Voice AI at $1/hr: Open-source, LoRAs, Latency, Load Balancing - Neil Dwyer, Gabber](https://www.youtube.com/watch?v=rD23-VZZHOo?utm_source=tiles.run)
+- ✨ [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent?utm_source=tiles.run)
 
 ## Research
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
