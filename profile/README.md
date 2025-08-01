@@ -78,6 +78,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Companies
 - [Apple](https://www.apple.com/)
+- [Anthropic](https://www.anthropic.com/)
 - [Workshop Labs](https://workshoplabs.ai/)
 - [Imbue](https://imbue.com/)
 - [Ollama](https://ollama.com)
