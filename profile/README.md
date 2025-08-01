@@ -21,7 +21,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Osmosis, Unlocking AI self-improvement at production scale](https://osmosis.ai/)
 - [Supermemory MCP](https://mcp.supermemory.ai/)
 - ✨ [Introducing the v0 composite model family, Vercel](https://vercel.com/blog/v0-composite-model-family#why-does-v0-need-a-composite-model-architecture?)
-- [TypeGPU: Enhancing WebGPU with TypeScript for Simplified GPU Programming](https://github.com/software-mansion/TypeGPU)
+- [Agent Reinforcement Trainer, OpenPipe](https://github.com/openpipe/art)
 - [GGUF Tool Suite](https://github.com/Thireus/GGUF-Tool-Suite/)
 - [Minions, Big & Small LLMs working together](https://github.com/HazyResearch/minions)
 - ✨ [The Kaitchup Index: A Leaderboard for Quantized LLMs](https://kaitchup.substack.com/p/the-kaitchup-index)
