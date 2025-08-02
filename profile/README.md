@@ -59,6 +59,7 @@ Below is a living index of resources that inform and inspire our work.
 - [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf)
 - ✨ [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
 - ✨ [Intent-Based Architecture and Their Risks](https://www.paradigm.xyz/2023/06/intents)
+- ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 
 ## Product
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
@@ -81,6 +82,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Reference 
 
+- ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
 - ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
 - ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
