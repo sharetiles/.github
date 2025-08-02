@@ -3,10 +3,16 @@
     <img src="https://avatars.githubusercontent.com/u/210493283?s=400&u=2f11fffd96608dab3c5e471f0b2ca3d51b528103&v=4" alt="Tiles Logo" width="128" />
   </a>
 </p>
-
 <p align="center">
   On-device, AI memory runtime for continual learning.
 </p>
+<p>
+              We envision a future shaped by many small, task-specific models, each finely tuned to its purpose and context. Tiles is our step toward enabling this vision. We are building <span className="bg-yellow-300 text-black px-1 rounded">on-device AI infrastructure</span> designed for continual learning through <span className="bg-yellow-300 text-black px-1 rounded">model chaining and parameter-efficient fine-tuning</span>.  Continual learning only makes sense when it runs on edge and consumer devices, where the model can adapt to each user privately, contextually, and with additional redundancy layers that safeguard their data.With advancements like MatFormer architecture, PLE caching, and Mixture of Experts (MoE), this is now practical on consumer devices.
+            </p>
+            We’re currently in the prototype phase and looking for design partners among early-stage companies. Join <strong>#tiles</strong> channel at <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> Discord to chat with us, and subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Tracing Neurons</a> for updates on on-device AI and personalization research. More resources are available on our <a href="https://github.com/tileshq/.github/blob/main/profile/README.md" className="underline" target="_blank" rel="noopener noreferrer">GitHub</a>.
+      </p>
+
+----
 
 # Resources 
 
