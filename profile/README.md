@@ -9,13 +9,12 @@
 <p>
               We envision a future shaped by many small, task-specific models, each finely tuned to its purpose and context. Tiles is our step toward enabling this vision. We are building <span className="bg-yellow-300 text-black px-1 rounded">on-device AI infrastructure</span> designed for continual learning through <span className="bg-yellow-300 text-black px-1 rounded">model chaining and parameter-efficient fine-tuning</span>.  Continual learning only makes sense when it runs on edge and consumer devices, where the model can adapt to each user privately, contextually, and with additional redundancy layers that safeguard their data.With advancements like MatFormer architecture, PLE caching, and Mixture of Experts (MoE), this is now practical on consumer devices.
             </p>
-            We’re currently in the prototype phase and looking for design partners among early-stage companies. Join <strong>#tiles</strong> channel at <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> Discord to chat with us, and subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Tracing Neurons</a> for updates on on-device AI and personalization research. More resources are available on our <a href="https://github.com/tileshq/.github/blob/main/profile/README.md" className="underline" target="_blank" rel="noopener noreferrer">GitHub</a>.
-      </p>
+            <p>
+  We’re in the prototype stage and seeking design partners among early-stage companies. Connect with us in the <strong>#tiles</strong> channel on the <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> Discord, or reach out via 
+  <a href="mailto:hello@tiles.run">hello@tiles.run</a>. Subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Neuron</a> for updates on on-device AI and personalization research.
+</p>
 
-----
-
-# Resources 
-
+# Resources
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
@@ -61,6 +60,19 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Intent-Based Architecture and Their Risks](https://www.paradigm.xyz/2023/06/intents)
 - ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 
+
+## Reference 
+- ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
+- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
+- ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
+- ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [MCP 201: The power of protocol, Anthropic](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
+- [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs)
+- [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
+- [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
+- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
+
+
 ## Product
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645)
@@ -80,18 +92,8 @@ Below is a living index of resources that inform and inspire our work.
 - [Arcee AI Conductor](https://models.arcee.ai/)
 - ✨ [Announcing the Arcee Model Engine Public Beta](https://www.arcee.ai/blog/announcing-the-arcee-model-engine-public-beta)
 - [Inference by Sequoia](https://inferencebysequoia.substack.com/about)
+- ✨ [Something Pretty Right: A History of Visual Basic | Retool](https://retool.com/visual-basic)
 
-## Reference 
-
-- ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
-- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
-- ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
-- ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [MCP 201: The power of protocol, Anthropic](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
-- [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs)
-- [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
-- [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
-- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
 
   ----
 © 2025 TilesHQ. All rights reserved.
