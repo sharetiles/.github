@@ -79,6 +79,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Fun stories from building OpenRouter and where all this is going - Alex Atallah, OpenRouter](https://www.youtube.com/watch?v=84Vtz2IL1Ug)
 - [Arcee AI Conductor](https://models.arcee.ai/)
 - ✨ [Announcing the Arcee Model Engine Public Beta](https://www.arcee.ai/blog/announcing-the-arcee-model-engine-public-beta)
+- [Inference by Sequoia](https://inferencebysequoia.substack.com/about)
 
 ## Reference 
 
