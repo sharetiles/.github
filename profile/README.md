@@ -39,7 +39,9 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
 - ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
+- ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 - ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
+- [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
 
 ## Research
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
@@ -59,7 +61,7 @@ Below is a living index of resources that inform and inspire our work.
 - [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf)
 - ✨ [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
 - ✨ [Intent-Based Architecture and Their Risks](https://www.paradigm.xyz/2023/06/intents)
-- ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
+
 
 
 ## Reference 
