@@ -76,6 +76,7 @@ Below is a living index of resources that inform and inspire our work.
 
 
 ## Product
+
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645)
 - ✨ [Workshop Labs Mission, Workshop Labs](https://workshoplabs.ai/)
@@ -97,5 +98,5 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Something Pretty Right: A History of Visual Basic | Retool](https://retool.com/visual-basic)
 
 
-  ----
+-------
 © 2025 TilesHQ. All rights reserved.
