@@ -35,6 +35,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Serving Voice AI at $1/hr: Open-source, LoRAs, Latency, Load Balancing - Neil Dwyer, Gabber](https://www.youtube.com/watch?v=rD23-VZZHOo)
 - [📏RULER: Easy Mode for RL Rewards](https://openpipe.ai/blog/ruler)
 - [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent)
+- [OpenBench, Provider-agnostic, open-source evaluation infrastructure for language models](https://github.com/groq/openbench)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
 - ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
