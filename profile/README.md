@@ -66,6 +66,7 @@ Below is a living index of resources that inform and inspire our work.
 - [A Preliminary Report On Edge-Verified Machine Learning, Exo Labs](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf)
 - ✨ [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
 - ✨ [Intent-Based Architecture and Their Risks](https://www.paradigm.xyz/2023/06/intents)
+- [Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design](https://arxiv.org/abs/2405.19076)
 
 
 
