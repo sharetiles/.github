@@ -42,8 +42,8 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 - ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
 - [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
-- [PyTorch MPS backend](https://docs.pytorch.org/docs/stable/notes/mps.html)
-- 
+- [Accelerated PyTorch training on Mac](https://docs.pytorch.org/docs/stable/notes/mps.html)
+
 
 ## Research
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
