@@ -52,6 +52,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Text-to-LoRA: Instant Transformer Adaption, Sakana AI](https://arxiv.org/abs/2506.06105)
 - ✨ [Small Language Models are the Future of Agentic AI, NVIDIA Research](https://arxiv.org/abs/2506.02153)
 - ✨ [Defeating Prompt Injections by Design, Google Deepmind](https://arxiv.org/abs/2503.18813)
+- [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 - [Introducing FlexOlmo: a new paradigm for language model training and data collaboration, Allen AI](https://allenai.org/blog/flexolmo)
 - [WhisperKit: On-device Real-time ASR with Billion-Scale Transformers, Argmax](https://openreview.net/attachment?id=6lC3MPFbVg&name=pdf)
 - ✨ [Towards Large-scale Training on Apple Silicon, Exo Labs](https://openreview.net/pdf?id=TJjP8d5bms)
