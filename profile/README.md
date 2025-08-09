@@ -20,7 +20,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
-- ✨ [MLX LM is a Python package for generating text and fine-tuning large language models on Apple silicon with MLX.](https://github.com/ml-explore/mlx-lm(https://opensource.apple.com/projects/mlx/)
+- ✨ [Apple MLX engine for LM Studio](https://github.com/lmstudio-ai/mlx-engine)
 - [Accelerated PyTorch training on Mac](https://docs.pytorch.org/docs/stable/notes/mps.html)
 - ✨ [Unsloth AI - Open Source Fine-tuning & RL for LLMs](https://unsloth.ai/)
 - ✨ [Mistral.rs, a cross-platform, highly-multimodal inference engine](https://github.com/EricLBuehler/mistral.rs)
