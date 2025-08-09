@@ -21,6 +21,8 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
 - ✨ [Apple MLX engine for LM Studio](https://github.com/lmstudio-ai/mlx-engine)
+- [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
+- [Structured outputs for LLMs](https://github.com/dottxt-ai/outlines)
 - [Accelerated PyTorch training on Mac](https://docs.pytorch.org/docs/stable/notes/mps.html)
 - ✨ [Unsloth AI - Open Source Fine-tuning & RL for LLMs](https://unsloth.ai/)
 - ✨ [Mistral.rs, a cross-platform, highly-multimodal inference engine](https://github.com/EricLBuehler/mistral.rs)
