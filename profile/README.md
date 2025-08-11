@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  On-device, AI memory runtime for continual learning.
+  Private model finetuning for your apps and your team.
 </p>
             <p>
   We’re in the prototype stage and seeking design partners among early-stage companies. Connect with us in the <strong>#tiles</strong> channel on the <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> Discord, or reach out via 
