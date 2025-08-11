@@ -8,7 +8,7 @@
 </p>
             <p>
   We’re in the prototype stage and seeking design partners among early-stage companies. Connect with us in the <strong>#tiles</strong> channel on the <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> Discord, or reach out via 
-  <a href="mailto:hello@tiles.run">hello@tiles.run</a>. Subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Neuron Analysis</a> for updates on on-device AI and personalization research.
+  <a href="mailto:hello@tiles.run">hello@tiles.run</a>. Subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research.
 </p>
 
 # Resources
