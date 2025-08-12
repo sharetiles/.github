@@ -91,6 +91,8 @@ Below is a living index of resources that inform and inspire our work.
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645)
 - ✨ [Workshop Labs Mission, Workshop Labs](https://workshoplabs.ai/)
+- ✨ [Nature's many attempts to evolve a Nostr, Gordon Brander](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
+- ✨ [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
 - ✨ [Empowering humans in the age of AI, Imbue](https://imbue.com/company/vision/)
 - ✨ [Everything is ugly, so go build something that isn't — Raiza Martin, Huxe (ex NotebookLM)](https://www.youtube.com/watch?v=yG5d5UaGz1M)
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software)
