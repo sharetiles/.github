@@ -84,7 +84,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Empowering humans in the age of AI, Imbue](https://imbue.com/company/vision/)
 - ✨ [Everything is ugly, so go build something that isn't — Raiza Martin, Huxe (ex NotebookLM)](https://www.youtube.com/watch?v=yG5d5UaGz1M)
 - ✨ [Responsive Software, Osmosis](https://osmosis.ai/blog/responsive-software)
-- [Our designer built an operating system with Cursor](https://www.youtube.com/watch?v=TQhv6Wol6Ns)
+- ✨ [Designing algorithm-friendly interfaces](https://uxdesign.cc/designing-algorithm-friendly-interfaces-84da3ed076a9)
 - ✨ [Why Tool Als Want to Be Agent Als, Gwern](https://gwern.net/tool-ai)
 - [Agents vs Workflows: Why Not Both? — Sam Bhagwat, Mastra.ai](https://www.latent.space/p/oai-v-langgraph)
 - ✨ [Machines of Buying and Selling Grace - Adam Behrens, New Generation](https://www.youtube.com/watch?v=zlZz0mDF2eg)
