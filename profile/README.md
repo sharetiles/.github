@@ -47,6 +47,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
 - [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
 - [Interoperability: Swift’s Super Power, Speaking in Swift by The Browser Company](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
+- [HuJSON - "Human JSON" (JWCC)](https://github.com/tailscale/hujson)
 
 
 ## Research
