@@ -74,19 +74,6 @@ Below is a living index of resources that inform and inspire our work.
 - [Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design](https://arxiv.org/abs/2405.19076)
 
 
-
-## Reference 
-- ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
-- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
-- ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
-- ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [MCP 201: The power of protocol, Anthropic](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
-- [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs)
-- [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
-- [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
-- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
-
-
 ## Product
 
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
@@ -113,6 +100,16 @@ Below is a living index of resources that inform and inspire our work.
 - [Tailscale’s visual policy editor is in beta](https://tailscale.com/blog/visual-editor-beta)
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
+## Reference 
+- ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
+- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
+- ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
+- ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [MCP 201: The power of protocol, Anthropic](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
+- [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs)
+- [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
+- [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
+- [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
 
 -------
 © 2025 TilesHQ. All rights reserved.
