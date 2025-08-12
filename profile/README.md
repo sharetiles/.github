@@ -107,6 +107,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Announcing the Arcee Model Engine Public Beta](https://www.arcee.ai/blog/announcing-the-arcee-model-engine-public-beta)
 - [Inference by Sequoia](https://inferencebysequoia.substack.com/about)
 - ✨ [Something Pretty Right: A History of Visual Basic | Retool](https://retool.com/visual-basic)
+- [Tailscale’s visual policy editor is in beta](https://tailscale.com/blog/visual-editor-beta)
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 
