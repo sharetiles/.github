@@ -46,7 +46,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 - ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
 - [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
-- [Structured outputs for LLMs](https://github.com/dottxt-ai/outlines)
+- [UniFFI - a multi-language bindings generator for Rust](https://github.com/mozilla/uniffi-rs)
 
 
 ## Research
