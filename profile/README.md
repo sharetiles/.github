@@ -25,6 +25,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Structured outputs for LLMs](https://github.com/dottxt-ai/outlines)
 - [Accelerated PyTorch training on Mac](https://docs.pytorch.org/docs/stable/notes/mps.html)
 - ✨ [Unsloth AI - Open Source Fine-tuning & RL for LLMs](https://unsloth.ai/)
+- ✨ [Introducing LFM2: The Fastest On-Device Foundation Models on the Market](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models)
 - ✨ [Mistral.rs, a cross-platform, highly-multimodal inference engine](https://github.com/EricLBuehler/mistral.rs)
 - [Osmosis, Unlocking AI self-improvement at production scale](https://osmosis.ai/)
 - [Supermemory MCP](https://mcp.supermemory.ai/)
