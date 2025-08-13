@@ -77,6 +77,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Product
 
+- ✨ [WWDC25: Apple’s Playing a Different Game](https://creativestrategies.com/wwdc25-apples-playing-a-different-game/)
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645)
 - ✨ [Workshop Labs Mission, Workshop Labs](https://workshoplabs.ai/)
@@ -104,6 +105,7 @@ Below is a living index of resources that inform and inspire our work.
 ## Reference 
 - ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
+- ✨ [The Power of Efficiency: Edge Al’s Role in Sustainable Generative Al Adoption](https://creativestrategies.com/research/gen-ai-edge-testing/)
 - ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
 - ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [MCP 201: The power of protocol, Anthropic](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
