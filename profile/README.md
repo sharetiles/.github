@@ -110,6 +110,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
 - [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
+- ✨ [Stanford CS25: V5 I Transformers in Diffusion Models for Image Generation and Beyond](https://www.youtube.com/watch?v=vXtapCFctTI)
 
 -------
 © 2025 TilesHQ. All rights reserved.
