@@ -118,6 +118,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
 - [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
 - ✨ [Stanford CS25: V5 I Transformers in Diffusion Models for Image Generation and Beyond](https://www.youtube.com/watch?v=vXtapCFctTI)
+- [WebAssembly and its platform targets](https://snarky.ca/webassembly-and-its-platform-targets/)
 
 -------
 © 2025 TilesHQ. All rights reserved.
