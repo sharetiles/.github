@@ -15,6 +15,7 @@
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
+- ✨ [Introducing Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
 - ✨ [Unternet Kernel](https://github.com/unternet-co/client/tree/main/kernel)
 - [Ollama JavaScript library](https://github.com/ollama/ollama-js)
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
