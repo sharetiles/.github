@@ -108,6 +108,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
 - ✨ [lmstudio-community/gpt-oss-20b-MLX-8bit](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit)
+- ✨ [lmstudio-community/gemma-3n-E4B-it-MLX-4bit](https://huggingface.co/lmstudio-community/gemma-3n-E4B-it-MLX-4bit)
 - ✨ [The Power of Efficiency: Edge Al’s Role in Sustainable Generative Al Adoption](https://creativestrategies.com/research/gen-ai-edge-testing/)
 - ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
 - ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
