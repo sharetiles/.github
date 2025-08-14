@@ -23,6 +23,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
 - ✨ [Apple MLX engine for LM Studio](https://github.com/lmstudio-ai/mlx-engine)
 - [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
+- ✨ [Swift 6.2 WebAssembly Revolution: Redefining Platform Boundaries](
 - [Structured outputs for LLMs](https://github.com/dottxt-ai/outlines)
 - [Accelerated PyTorch training on Mac](https://docs.pytorch.org/docs/stable/notes/mps.html)
 - ✨ [Unsloth AI - Open Source Fine-tuning & RL for LLMs](https://unsloth.ai/)
