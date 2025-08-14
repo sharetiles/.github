@@ -24,6 +24,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Apple MLX engine for LM Studio](https://github.com/lmstudio-ai/mlx-engine)
 - [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
 - ✨ [SwiftWasm, WebAssembly support for the Swift programming language](https://github.com/swiftwasm/swift)
+- [The pretty much "official" DSPy framework for Typescript](https://github.com/ax-llm/ax)
 - [Structured outputs for LLMs](https://github.com/dottxt-ai/outlines)
 - [Accelerated PyTorch training on Mac](https://docs.pytorch.org/docs/stable/notes/mps.html)
 - ✨ [Unsloth AI - Open Source Fine-tuning & RL for LLMs](https://unsloth.ai/)
