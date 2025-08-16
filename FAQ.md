@@ -1,4 +1,6 @@
-# Spec Sheet
+# FAQ 
+
+## Spec Sheet
 
 Gen 1 Flash Drive
 
@@ -13,11 +15,11 @@ Gen 1 Flash Drive
 - Compatibility: Windows 11/10/8.1, macOS 10.14+, Linux 2.6+, Chrome OS™
 - Design: Ridged casing with one-hand sliding cap and LED status indicator
 
-# Plug and play usage with the included SDK
+## Plug and play usage with the included SDK
 Modelfile makes it easier to run, and build finetuned models.
 
-# Free updates to 1.x version
+## Free updates to 1.x version
 Free updates for all the pre release and 1.x versions.
 
-# Community support included
+## Community support included
 Team members would be added to a Discord support channel. 
