@@ -16,7 +16,7 @@ Gen 1 Flash Drive
 - Design: Ridged casing with one-hand sliding cap and LED status indicator
 
 ## Plug and play usage with the included SDK
-Modelfile makes it easier to run, and build finetuned models.
+The included launcher with Modelfile makes it easier to run, and build finetuned models.
 
 ## Free updates to 1.x version
 Free updates for all the pre release and 1.x versions.
