@@ -7,8 +7,7 @@
   Run and build with open source model tools.
 </p>
             <p>
-  We’re in the prototype stage and seeking design partners among early-stage companies. Connect with us in the <strong>#tiles</strong> channel on the <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">User &amp; Agents</a> Discord, or get a call with us at 
-  <a href="https://go.tiles.run/talk">go.tiles.run/talk</a>. Subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research.
+ We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research.
 </p>
 
 # Resources
