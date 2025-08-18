@@ -123,4 +123,4 @@ Below is a living index of resources that inform and inspire our work.
 - [Apple Developer, Technotes, Learn about specific development topics through these in-depth technical articles.](https://developer.apple.com/documentation/technotes/)
 
 -------
-© 2025 TilesHQ. All rights reserved.
+Copyright © 2025, Tiles. All rights reserved.
