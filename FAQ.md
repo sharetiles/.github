@@ -8,7 +8,7 @@ Unified memory is the only practical solution for continual learning on consumer
 It is built on [balenaEtcher](https://etcher.balena.io/). The [Modelfile](https://ollama.readthedocs.io/en/modelfile/) based implementation (Dockerfile for models) makes it easier to run, build, and share fine-tuned models.  
 
 ## What updates are included with the license?  
-You receive free updates for all pre-release and 1.x versions, following the [once](https://once.com/) pricing model.  
+You receive free updates for all pre-release and 1.x versions under the [once](https://once.com/) pricing model. TestFlight beta access is free but subject to availability and change.
 
 ## Where can I get paid help and support?  
-You’ll have access to a private paid channel in our Discord community, with dedicated support included.
+You’ll have access to a private paid channel in our [Discord](https://discord.gg/SJWpz4Ugsm) community, with dedicated support included.
