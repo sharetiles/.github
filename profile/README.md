@@ -81,6 +81,7 @@ Below is a living index of resources that inform and inspire our work.
 ## Product
 
 - ✨ [USB Club. A social file exchange. For designers, artists, DJs, writers, musicians, researchers, engineers.](https://usb.club/)
+- [Model Evaluation, Amp](https://ampcode.com/news/model-evaluation)
 - ✨ [WWDC25: Apple’s Playing a Different Game](https://creativestrategies.com/wwdc25-apples-playing-a-different-game/)
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - ✨ [The Use of Knowledge in (AGI) Society, Luke Drago](https://lukedrago.substack.com/cp/160938645)
