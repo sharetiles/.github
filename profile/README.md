@@ -55,10 +55,11 @@ Below is a living index of resources that inform and inspire our work.
 
 
 ## Research
-- [How memory augmentation can improve large language models, IBM Research](https://research.ibm.com/blog/memory-augmented-LLMs)
+
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
 - ✨ [Text-to-LoRA: Instant Transformer Adaption, Sakana AI](https://arxiv.org/abs/2506.06105)
+- [How memory augmentation can improve large language models, IBM Research](https://research.ibm.com/blog/memory-augmented-LLMs)
 - ✨ [Small Language Models are the Future of Agentic AI, NVIDIA Research](https://arxiv.org/abs/2506.02153)
 - ✨ [Defeating Prompt Injections by Design, Google Deepmind](https://arxiv.org/abs/2503.18813)
 - [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
