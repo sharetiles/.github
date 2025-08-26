@@ -55,6 +55,7 @@ Below is a living index of resources that inform and inspire our work.
 
 
 ## Research
+- [How memory augmentation can improve large language models, IBM Research](https://research.ibm.com/blog/memory-augmented-LLMs)
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
 - ✨ [Text-to-LoRA: Instant Transformer Adaption, Sakana AI](https://arxiv.org/abs/2506.06105)
@@ -108,6 +109,7 @@ Below is a living index of resources that inform and inspire our work.
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ## Reference 
+- [Deep (Learning) Focus, a blog on AI research concepts by Cameron R. Wolfe](https://cameronrwolfe.substack.com/)
 - ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
 - ✨ [lmstudio-community/gpt-oss-20b-MLX-8bit](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit)
