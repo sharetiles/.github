@@ -82,6 +82,8 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Product
 
+- ✨ [SYNTHETIC-1: Scaling Distributed Synthetic Data Generation for Verified Reasoning, Prime Intellect](https://www.primeintellect.ai/blog/synthetic-1)
+- [SYNTHETIC-2 Release: Four Million Collaboratively Generated Reasoning Traces, Prime Intellect](https://www.primeintellect.ai/blog/synthetic-2-release)
 - ✨ [USB Club. A social file exchange. For designers, artists, DJs, writers, musicians, researchers, engineers.](https://usb.club/)
 - [Model Evaluation, Amp](https://ampcode.com/news/model-evaluation)
 - ✨ [WWDC25: Apple’s Playing a Different Game](https://creativestrategies.com/wwdc25-apples-playing-a-different-game/)
