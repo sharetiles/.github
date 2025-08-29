@@ -21,7 +21,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
-- ✨ [Apple MLX engine for LM Studio](https://github.com/lmstudio-ai/mlx-engine)
+- ✨ [LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)
 - [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
 - ✨ [SwiftWasm, WebAssembly support for the Swift programming language](https://github.com/swiftwasm/swift)
 - [DSPy Notebook, The pretty much "official" DSPy framework for Typescript](https://github.com/ax-llm/ax)
