@@ -14,9 +14,9 @@
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
+- ✨ [PrimeIntellect-ai/prime-iroh: Asynchronous P2P communication backend for decentralized pipeline parallelism](https://github.com/PrimeIntellect-ai/prime-iroh)
 - ✨ [Introducing Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
 - ✨ [Unternet Kernel](https://github.com/unternet-co/client/tree/main/kernel)
-- [Ollama JavaScript library](https://github.com/ollama/ollama-js)
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
