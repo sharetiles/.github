@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  Run and build with open source model tools.
+  Private memory finetuning across your devices for creators, thinkers, and builders.
 </p>
             <p>
  We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research.
