@@ -17,6 +17,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
+- ✨ [Use MergeKit to Extract LoRA Adapters from any Fine-Tuned Model](https://www.arcee.ai/blog/use-mergekit-to-extract-lora-adapters-from-any-fine-tuned-model)
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
 - ✨ [LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)
 - [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
@@ -60,7 +61,7 @@ Below is a living index of resources that inform and inspire our work.
 
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
-- ✨ [Text-to-LoRA: Instant Transformer Adaption, Sakana AI](https://arxiv.org/abs/2506.06105)
+- ✨ [Text-to-LoRA: Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input ,Sakana AI](https://arxiv.org/abs/2506.06105)
 - [How memory augmentation can improve large language models, IBM Research](https://research.ibm.com/blog/memory-augmented-LLMs)
 - ✨ [Small Language Models are the Future of Agentic AI, NVIDIA Research](https://arxiv.org/abs/2506.02153)
 - ✨ [Defeating Prompt Injections by Design, Google Deepmind](https://arxiv.org/abs/2503.18813)
