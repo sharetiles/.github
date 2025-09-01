@@ -14,15 +14,17 @@
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
-- ✨ [PrimeIntellect-ai/prime-iroh: Asynchronous P2P communication backend for decentralized pipeline parallelism](https://github.com/PrimeIntellect-ai/prime-iroh)
-- ✨ [Introducing Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
-- ✨ [Unternet Kernel](https://github.com/unternet-co/client/tree/main/kernel)
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
 - ✨ [LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)
 - [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
+- ✨ [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
+- ✨ [Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)
+- ✨ [PrimeIntellect-ai/prime-iroh: Asynchronous P2P communication backend for decentralized pipeline parallelism](https://github.com/PrimeIntellect-ai/prime-iroh)
+- ✨ [Introducing Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+- ✨ [Unternet Kernel](https://github.com/unternet-co/client/tree/main/kernel)
 - ✨ [SwiftWasm, WebAssembly support for the Swift programming language](https://github.com/swiftwasm/swift)
 - [DSPy Notebook, The pretty much "official" DSPy framework for Typescript](https://github.com/ax-llm/ax)
 - [Structured outputs for LLMs](https://github.com/dottxt-ai/outlines)
