@@ -122,6 +122,7 @@ Below is a living index of resources that inform and inspire our work.
 ## Reference 
 - ✨ [Planetary-Scale Inference: Previewing our Peer-To-Peer Decentralized Inference Stack](https://www.primeintellect.ai/blog/inference)
 - [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
+- [The Roadmap of Mathematics for Machine Learning](https://substack.com/home/post/p-166969275)
 - [Deep (Learning) Focus, a blog on AI research concepts by Cameron R. Wolfe](https://cameronrwolfe.substack.com/)
 - ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
