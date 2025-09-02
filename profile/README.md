@@ -7,9 +7,11 @@
   Private memory finetuning across your devices for creators, thinkers, and builders.
 </p>
             <p>
- We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://neurons.pub/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research. Consider supporting our research and open-source projects through <a href="https://github.com/sponsors/tileslauncher" className="underline" target="_blank" rel="noopener noreferrer">Github Sponsors</a>.
+ We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://neurons.pub/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research. 
 
+Consider supporting our research and open-source projects through <a href="https://github.com/sponsors/tileslauncher" className="underline" target="_blank" rel="noopener noreferrer">Github Sponsors</a>.
 
+This work is currently supported by publication's subscribers, <a href="https://bsky.app/profile/bmann.ca" target="_blank" rel="noopener noreferrer">Boris Mann</a>, <a href="https://bsky.app/profile/lukeinth.bsky.social" target="_blank" rel="noopener noreferrer">Luke Hubbard</a>, <a href="https://x.com/CurranDwyer" target="_blank" rel="noopener noreferrer">Curran Dwyer</a>, <a href="https://www.xizhang.page/" target="_blank" rel="noopener noreferrer">Xi Zhang</a>, <a href="https://bsky.app/profile/burrito.space" target="_blank" rel="noopener noreferrer">Dietrich Ayala</a>, and <a href="https://hugoduprez.com/" target="_blank" rel="noopener noreferrer">Hugo Duprez</a>.
 </p>
 
 # Resources
