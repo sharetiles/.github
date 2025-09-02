@@ -7,7 +7,9 @@
   Private memory finetuning across your devices for creators, thinkers, and builders.
 </p>
             <p>
- We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://neurons.pub/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research.
+ We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://neurons.pub/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research. Consider supporting our research and open-source projects through <a href="https://github.com/sponsors/tileslauncher" className="underline" target="_blank" rel="noopener noreferrer">Github Sponsors</a>.
+
+
 </p>
 
 # Resources
