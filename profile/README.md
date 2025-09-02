@@ -116,7 +116,8 @@ Below is a living index of resources that inform and inspire our work.
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ## Reference 
-- [Mergekit founder explains model merging](https://www.youtube.com/watch?v=IVDNhQIzyIY)
+- ✨ [Planetary-Scale Inference: Previewing our Peer-To-Peer Decentralized Inference Stack](https://www.primeintellect.ai/blog/inference)
+- [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
 - [Deep (Learning) Focus, a blog on AI research concepts by Cameron R. Wolfe](https://cameronrwolfe.substack.com/)
 - ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
@@ -135,6 +136,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Apple Developer, Technotes, Learn about specific development topics through these in-depth technical articles.](https://developer.apple.com/documentation/technotes/)
 - [The Apple Wiki](https://theapplewiki.com/wiki/Main_Page)
 - [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
+- [Mergekit founder explains model merging](https://www.youtube.com/watch?v=IVDNhQIzyIY)
 
 -------
 Copyright © 2025, Tiles. All rights reserved.
