@@ -23,6 +23,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
 - ✨ [Use MergeKit to Extract LoRA Adapters from any Fine-Tuned Model](https://www.arcee.ai/blog/use-mergekit-to-extract-lora-adapters-from-any-fine-tuned-model)
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
+- [instavm/coderunner: A secure local sandbox to run LLM-generated code using Apple containers](https://github.com/instavm/coderunner)
 - ✨ [LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)
 - [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
 - ✨ [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
