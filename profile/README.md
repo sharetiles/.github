@@ -68,6 +68,7 @@ Below is a living index of resources that inform and inspire our work.
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
 - ✨ [Text-to-LoRA: Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input ,Sakana AI](https://arxiv.org/abs/2506.06105)
 - [How memory augmentation can improve large language models, IBM Research](https://research.ibm.com/blog/memory-augmented-LLMs)
+- ✨ [The Power of Efficiency: Edge Al’s Role in Sustainable Generative Al Adoption](https://creativestrategies.com/research/gen-ai-edge-testing/)
 - ✨ [Small Language Models are the Future of Agentic AI, NVIDIA Research](https://arxiv.org/abs/2506.02153)
 - ✨ [Defeating Prompt Injections by Design, Google Deepmind](https://arxiv.org/abs/2503.18813)
 - [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
@@ -121,28 +122,20 @@ Below is a living index of resources that inform and inspire our work.
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ## Reference 
+- ✨ [Hand-picked selection of articles on AI fundamentals/concepts that cover the entire process of building neural nets to training them to evaluating results.](https://aman.ai/primers/ai/)
+- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
 - ✨ [Planetary-Scale Inference: Previewing our Peer-To-Peer Decentralized Inference Stack](https://www.primeintellect.ai/blog/inference)
 - [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
-- [The Roadmap of Mathematics for Machine Learning](https://substack.com/home/post/p-166969275)
-- [Deep (Learning) Focus, a blog on AI research concepts by Cameron R. Wolfe](https://cameronrwolfe.substack.com/)
 - ✨ [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
-- ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
-- ✨ [lmstudio-community/gpt-oss-20b-MLX-8bit](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit)
-- ✨ [lmstudio-community/gemma-3n-E4B-it-MLX-4bit](https://huggingface.co/lmstudio-community/gemma-3n-E4B-it-MLX-4bit)
-- ✨ [The Power of Efficiency: Edge Al’s Role in Sustainable Generative Al Adoption](https://creativestrategies.com/research/gen-ai-edge-testing/)
 - ✨ [An Analogy for Understanding Transformers](https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers)
 - ✨ [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [MCP 201: The power of protocol, Anthropic](https://www.youtube.com/watch?v=HNzH5Us1Rvg)
 - [GGUF Quantization Docs (Unofficial)](https://github.com/iuliaturc/gguf-docs)
 - [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
 - [H100 PCIe vs SXM vs NVL: Which H100 GPU Is Fastest and Most Cost-Effective for Fine-Tuning LLMs?](https://kaitchup.substack.com/p/h100-pcie-vs-sxm-vs-nvl-best-single)
-- ✨ [Stanford CS25: V5 I Transformers in Diffusion Models for Image Generation and Beyond](https://www.youtube.com/watch?v=vXtapCFctTI)
-- [WebAssembly and its platform targets](https://snarky.ca/webassembly-and-its-platform-targets/)
 - [Apple Developer, Technotes, Learn about specific development topics through these in-depth technical articles.](https://developer.apple.com/documentation/technotes/)
 - [The Apple Wiki](https://theapplewiki.com/wiki/Main_Page)
 - [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
-- [Mergekit founder explains model merging](https://www.youtube.com/watch?v=IVDNhQIzyIY)
 
 -------
 Copyright © 2025, Tiles. All rights reserved.
