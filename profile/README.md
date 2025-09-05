@@ -137,5 +137,7 @@ Below is a living index of resources that inform and inspire our work.
 - [The Apple Wiki](https://theapplewiki.com/wiki/Main_Page)
 - [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
 
+Resource inspired from [GPU Glossary, Modal](https://modal.com/gpu-glossary/perf)
+
 -------
 Copyright © 2025, Tiles. All rights reserved.
