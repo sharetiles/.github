@@ -53,7 +53,6 @@ Below is a living index of resources that inform and inspire our work.
 - [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent)
 - [OpenBench, Provider-agnostic, open-source evaluation infrastructure for language models](https://github.com/groq/openbench)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
-- [A DSPy rewrite to Rust](https://github.com/krypticmouse/DSRs)
 - ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
 - ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 - ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
