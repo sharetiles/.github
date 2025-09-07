@@ -53,7 +53,7 @@ Below is a living index of resources that inform and inspire our work.
 - [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent)
 - [OpenBench, Provider-agnostic, open-source evaluation infrastructure for language models](https://github.com/groq/openbench)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
-- ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
+- ✨ [A case for client-side machine learning, Christopher Fleetwood](https://web.archive.org/web/20250512221340/https://fleetwood.dev/posts/a-case-for-client-side-machine-learning)
 - [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
 - [Interoperability: Swift’s Super Power, Speaking in Swift by The Browser Company](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
 
