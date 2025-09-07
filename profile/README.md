@@ -25,7 +25,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
 - [instavm/coderunner: A secure local sandbox to run LLM-generated code using Apple containers](https://github.com/instavm/coderunner)
 - ✨ [LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)
-- [MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.](https://github.com/Blaizzy/mlx-vlm)
+- [Introducing the unified multi-modal MLX engine architecture in LM Studio](https://lmstudio.ai/blog/unified-mlx-engine)
 - ✨ [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
 - ✨ [Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)
 - ✨ [PrimeIntellect-ai/prime-iroh: Asynchronous P2P communication backend for decentralized pipeline parallelism](https://github.com/PrimeIntellect-ai/prime-iroh)
