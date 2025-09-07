@@ -119,6 +119,7 @@ Below is a living index of resources that inform and inspire our work.
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ## Reference 
+- [RFT, DPO, SFT: Fine-tuning with OpenAI — Ilan Bigio, OpenAI](https://www.youtube.com/watch?v=JfaLQqfXqPA)
 - ✨ [Hand-picked selection of articles on AI fundamentals/concepts that cover the entire process of building neural nets to training them to evaluating results.](https://aman.ai/primers/ai/)
 - ✨ [The State of On-Device LLMs](https://app.getcontrast.io/register/sota-the-state-of-llms)
 - ✨ [Planetary-Scale Inference: Previewing our Peer-To-Peer Decentralized Inference Stack](https://www.primeintellect.ai/blog/inference)
