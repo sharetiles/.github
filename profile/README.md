@@ -55,10 +55,8 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
 - ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
-- ✨ [How Tailscale works](https://tailscale.com/blog/how-tailscale-works)
 - [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
 - [Interoperability: Swift’s Super Power, Speaking in Swift by The Browser Company](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
-- [HuJSON - "Human JSON" (JWCC)](https://github.com/tailscale/hujson)
 
 
 ## Research
@@ -117,7 +115,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Announcing the Arcee Model Engine Public Beta](https://www.arcee.ai/blog/announcing-the-arcee-model-engine-public-beta)
 - [Inference by Sequoia](https://inferencebysequoia.substack.com/about)
 - ✨ [Something Pretty Right: A History of Visual Basic | Retool](https://retool.com/visual-basic)
-- [Tailscale’s visual policy editor is in beta](https://tailscale.com/blog/visual-editor-beta)
+- ✨ [How Tailscale Works](https://tailscale.com/blog/how-tailscale-works)
 - [FoundationDB: from idea to Apple acquisition](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ## Reference 
