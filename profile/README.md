@@ -54,13 +54,13 @@ Below is a living index of resources that inform and inspire our work.
 - [OpenBench, Provider-agnostic, open-source evaluation infrastructure for language models](https://github.com/groq/openbench)
 - ✨ [LoRA's Limitations: Head-to-Head with Full RL](https://osmosis.ai/blog/lora-comparison)
 - ✨ [A case for client-side machine learning, Christopher Fleetwood](https://www.are.na/block/37127633)
-- ✨ [Ratchet Architecture](https://github.com/huggingface/ratchet/blob/master/ARCHITECTURE.md)
 - [Democratizing Al: The Psyche Network Architecture, Nous Research](https://nousresearch.com/nous-psyche/)
 - [Interoperability: Swift’s Super Power, Speaking in Swift by The Browser Company](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
 
 
 ## Research
 
+- [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
 - ✨ [Text-to-LoRA: Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input ,Sakana AI](https://arxiv.org/abs/2506.06105)
