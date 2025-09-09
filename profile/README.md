@@ -18,6 +18,7 @@ This work is currently supported by <a href="https://bsky.app/profile/bmann.ca" 
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
+- [iMCP, A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more](https://github.com/mattt/iMCP)
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
