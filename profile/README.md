@@ -18,15 +18,15 @@ This work is currently supported by <a href="https://bsky.app/profile/bmann.ca" 
 Below is a living index of resources that inform and inspire our work.
 
 ## Engineering
-- ✨ [iMCP, A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more](https://github.com/mattt/iMCP)
+
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
 - ✨ [Use MergeKit to Extract LoRA Adapters from any Fine-Tuned Model](https://www.arcee.ai/blog/use-mergekit-to-extract-lora-adapters-from-any-fine-tuned-model)
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
 - [instavm/coderunner: A secure local sandbox to run LLM-generated code using Apple containers](https://github.com/instavm/coderunner)
-- ✨ [LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)
 - [Introducing the unified multi-modal MLX engine architecture in LM Studio](https://lmstudio.ai/blog/unified-mlx-engine)
+- [Announcing Spiral, Data 3.0, with backing from the best](https://spiraldb.com/post/announcing-spiral)
 - ✨ [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
 - ✨ [Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)
 - ✨ [PrimeIntellect-ai/prime-iroh: Asynchronous P2P communication backend for decentralized pipeline parallelism](https://github.com/PrimeIntellect-ai/prime-iroh)
