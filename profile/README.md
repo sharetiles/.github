@@ -89,6 +89,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Product
 
+- ✨ [Designing an open-source LLM interface and social platforms for collectively driven LLM evaluation and auditing](https://openwebui.com/assets/files/whitepaper.pdf)
 - ✨ [pyx: a Python-native package registry, now in Beta](https://astral.sh/blog/introducing-pyx)
 - ✨ [Can something be private yet discoverable?](https://blog.index.network/can-something-be-private-yet-discoverable)
 - ✨ [The Invisible OS](https://docs.google.com/document/d/1JGmdcc028O0v6Ca6IKRYJbM6h21jFZtPZKi4Bp82_vw/mobilebasic)
