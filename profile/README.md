@@ -85,7 +85,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Intent-Based Architecture and Their Risks](https://www.paradigm.xyz/2023/06/intents)
 - [Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential](https://arxiv.org/abs/2507.11851)
 - [Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design](https://arxiv.org/abs/2405.19076)
-
+- [Towards Feasible Private Distributed LLM Inference, Dria](https://dria.co/research/towards-feasible-private-distributed-llm-inference)
 
 ## Product
 
