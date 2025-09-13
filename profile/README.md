@@ -27,6 +27,7 @@ Below is a living index of resources that inform and inspire our work.
 - [instavm/coderunner: A secure local sandbox to run LLM-generated code using Apple containers](https://github.com/instavm/coderunner)
 - [Introducing the unified multi-modal MLX engine architecture in LM Studio](https://lmstudio.ai/blog/unified-mlx-engine)
 - [Announcing Spiral, Data 3.0, with backing from the best](https://spiraldb.com/post/announcing-spiral)
+- [mem-agent: Persistent, Human Readable Memory Agent Trained with Online RL](https://huggingface.co/blog/driaforall/mem-agent)
 - ✨ [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
 - ✨ [Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)
 - ✨ [PrimeIntellect-ai/prime-iroh: Asynchronous P2P communication backend for decentralized pipeline parallelism](https://github.com/PrimeIntellect-ai/prime-iroh)
