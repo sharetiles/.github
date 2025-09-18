@@ -22,6 +22,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Modelfile Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/modelfile/)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Foundation Models adapter training - Apple Intelligence - Apple Developer](https://developer.apple.com/apple-intelligence/foundation-models-adapter/)
+- [vLLM Semantic Router: Next Phase in LLM inference](https://blog.vllm.ai/2025/09/11/semantic-router.html)
 - ✨ [Use MergeKit to Extract LoRA Adapters from any Fine-Tuned Model](https://www.arcee.ai/blog/use-mergekit-to-extract-lora-adapters-from-any-fine-tuned-model)
 - ✨ [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a)
 - [instavm/coderunner: A secure local sandbox to run LLM-generated code using Apple containers](https://github.com/instavm/coderunner)
