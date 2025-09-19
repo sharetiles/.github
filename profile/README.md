@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tileshq/">
-    <img src="https://avatars.githubusercontent.com/u/210493283?s=400&u=2f11fffd96608dab3c5e471f0b2ca3d51b528103&v=4" alt="Tiles Logo" width="128" />
+    <img src="https://avatars.githubusercontent.com/u/210493283?s=400&u=1ee6e44b6a683b16bdb6e9e853c7ebd8c7fd4268&v=4" alt="Tiles Logo" width="128" />
   </a>
 </p>
 <p align="center">
